@@ -25,9 +25,9 @@
     "mongoose": "^5.10.11",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
+    "redux-form": "^8.3.6",
     "redux-logger": "^3.0.6",
     "sendgrid": "^5.1.2",
     "stripe": "^8.120.0"
   }
 }
-
